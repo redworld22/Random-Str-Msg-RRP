@@ -1,3 +1,6 @@
+#Image
+*.webp
+
 # Logs
 logs
 *.log

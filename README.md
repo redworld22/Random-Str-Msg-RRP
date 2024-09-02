@@ -1,2 +1,2 @@
 # Random-Str-Msg-RRP
-Random-Str-Msg-RRP
+Random String Messages-RRP
