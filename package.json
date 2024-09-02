@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msg-rrp",
+  "version": "1.0.0",
+  "description": "Random-Str-Msg-RRP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Red Robles <redworld22@hotmail.com>",
+  "license": "MIT",
+  "bin": {
+    "Random-Str-Msg-RRP": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
